@@ -1,0 +1,52 @@
+
+
+  
+  #entete, #menu, #contenu,#img, #footer, #img {
+    padding:10px 0;
+    }
+    #entete {
+    background-color:#00d9ff;
+    text-align:center;
+    height: 30%;
+    }
+    #img
+    {
+      width: 40px;
+      height: 34px;
+    }
+    #main {
+    max-with:960px;
+    margin:auto;
+    }
+    #menu  { 
+    float:left;
+    width:240px;
+    background-color:#00ff73;
+    }
+  
+    #contenu {
+    margin-left:240px;
+    background-color:#00ff22;
+      }
+      p
+      {
+        font-size:15px;
+    }
+    li
+    {
+      font-size:20PX;
+      background-color:#ff0000;
+
+      
+  }
+    
+    #coordonnée  { 
+      float:left;
+      width:240px;
+      background-color:#00d9ff;
+    }
+    #footer {
+      background-color:#00d9ff;
+      text-align:left;
+    clear:both;
+    }
